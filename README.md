@@ -8,3 +8,4 @@ Este é um simples aplicativo de lista de tarefas desenvolvido com Vue 3. O proj
 - **Marcar como Concluída**: Permite marcar as tarefas como concluídas.
 - **Remover Todas as Tarefas**: Permite apagar todas as tarefas da lista.
 - **Armazenamento Local**: O estado das tarefas é salvo no Local Storage do navegador, garantindo persistência dos dados.
+-  [Link do deploy do projeto](https://ziery-dev.github.io/Lista-de-tarefas/) 
